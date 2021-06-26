@@ -8,10 +8,12 @@ redirect_from:
   - /about.html
 ---
 
-Hello! I am a second year PhD student working in [Cylab](https://www.cylab.cmu.edu/) at [Carnegie Mellon University (CMU)](https://www.cmu.edu/). With my advisor, [Lujo Bauer](https://users.ece.cmu.edu/~lbauer/), I study robust machine learning, applications of machine learning for malware detection, and machine learning based anomaly detection. I also incorporate my [interest](https://keanelucas.com/projects/doom-bot) in reinforcement learning into my research whenever I get the chance!
+Hello! I am a mixed reality engineer working at mcirosoft on the [Hololens](https://www.microsoft.com/en-us/hololens) at Microsoft. I also like quickly drawing out my [thoughts](https://www.instagram.com/_artchana/) whenver I can!
 
-Originally from the [Matanuska Valley](https://www.frontiersman.com/news/trio-of-valley-students-graduate-together-from-u-s-air-force-academy/article_e0b6e5de-edad-11e3-98fc-001a4bcf887a.html) in Alaska, I [graduated](https://youtu.be/tCckScbNfq8?t=88) from the [United States Air Force Academy](https://www.usafa.edu/) (class of 2014) with a BS in Computer Science and from Carnegie Mellon University, [Information Networking Institute](https://www.cmu.edu/ini/) with an MS in [Information Security](https://www.cmu.edu/ini/academics/msis/index.html). After gaining [valuable](https://www.dvidshub.net/video/330646/usafa-team-competes-nsa-cyberdefense-exercise) [experience](https://www.wired.com/story/national-guards-fire-mapping-drones-get-ai-upgrade/) serving in [unique](https://www.jpl.nasa.gov/) [roles](https://www.ai.mil/) in the Air Force, I separated as a Captain (O3) to pursue a PhD supported by the [NDSEG Fellowship](https://ndseg.sysplus.com/).
+Originally from Mumbai, India, I graduated from the [University of Mumbai](https://www.djsce.ac.in/) (class of 2014) with a B.E. in Information Technology and from Carnegie Mellon University, [Information Networking Institute](https://www.cmu.edu/ini/) with an MS in [Information Technology - Mobility](https://www.cmu.edu/ini/academics/bicoastal/index.html). As I have gained [valuable](https://intuit.com/) [experience](https://www.microsoft.com/en-us/microsoft-365/exchange/email) serving in [unique](https://www.microsoft.com/en-us/hololens) [roles](https://www.iitb.ac.in/), I continue to look for more opportunities to expand my skillset!
 
-My overall goal is to advance in the field of machine learning by continuing to learn the skills and expertise to become a reliable researcher focused on positive societal impact via effective work in industry and government.
+I enjoy helping other women pursue a tech career, performing improv, recording my podcast, [Let's Chaat!](https://linktr.ee/letuschaat) (which you should check out!). Overall, I enjoy building products at scale that solve customer problems in unique ways.
 
-![](images/holdinghands_northernlights.jpg)
+If you want to chat, please reach out! For convenience, you can check out my public calendar and set up time with me [here](https://aka.ms/conferencecallwitharchana).
+
+<!-- ![](images/holdinghands_northernlights.jpg) -->
